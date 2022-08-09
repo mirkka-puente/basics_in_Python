@@ -37,7 +37,7 @@
 - Datos de tamaño arbitrario I
 - Datos de tamaño arbitrario II
 
-### Funciones II
+### v. Funciones II
 
 - Uso de funciones - helpers
 - Visión global I - diseño de un programa
