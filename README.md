@@ -8,7 +8,7 @@
 - Diseñar estructuras básicas de datos que ayuden a la representación de problemas.
 - Comprender el manejo y procesamiento básico de una base de datos.
 
-![]()
+![](https://github.com/mirkka-puente/basics_in_Python/blob/main/Imagenes/web-g0bda2348b_640.jpg)
 
 ### I. Introducción a Python 
                 
