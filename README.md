@@ -8,10 +8,38 @@
 - Diseñar estructuras básicas de datos que ayuden a la representación de problemas.
 - Comprender el manejo y procesamiento básico de una base de datos.
 
-**Table of Contents**
-
-
-### Introducción a Python 
+### I. Introducción a Python 
                 
+- Instalación de Python - Anaconda
+- Uso de Google Colab
+- Tipo de datos
+- Expresiones con operadores
+- Definición de variables
 
-link [Heading link](https://github.com)
+### II. Estructura de Datos I
+
+- Datos atómicos, primitivos y no primitivos
+- Enumeraciones
+- Opcionales
+- Condicionales
+
+### III. Funciones I
+
+- Definición
+- Partes 
+- Receta para diseñar funciones
+- Tests 
+
+### IV. Estructura de Datos II
+
+- Diccionarios
+- Datos compuestos 
+- Datos de tamaño arbitrario I
+- Datos de tamaño arbitrario II
+
+### Funciones II
+
+- Uso de funciones - helpers
+- Visión global I - diseño de un programa
+- Visión global II - leer base de datos (CSV)
+- Revisión
