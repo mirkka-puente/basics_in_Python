@@ -10,10 +10,8 @@
 
 **Table of Contents**
 
-[TOCM]
 
-[TOC]
-
-###Introducción a Python 
+### Introducción a Python 
+                
 
 link [Heading link](https://github.com)
